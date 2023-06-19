@@ -16,16 +16,15 @@
 - **Database** : Oracle DB
 
 ## 📌 주요 기능
-#### 로그인 - <a href="https://github.com/chaehyuenwoo/SpringBoot-Project-MEGABOX/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Login)" >상세보기 - WIKI 이동</a>
-- DB값 검증
-- ID찾기, PW찾기
-- 로그인 시 쿠키 및 세션 생성
-#### 회원가입 - <a href="https://github.com/chaehyuenwoo/SpringBoot-Project-MEGABOX/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Member)" >상세보기 - WIKI 이동</a>
-- 주소 API 연동
-- ID 중복 체크
-#### 마이 페이지 - <a href="https://github.com/chaehyuenwoo/SpringBoot-Project-MEGABOX/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Member)" >상세보기 - WIKI 이동</a>
-- 회원정보 변경
-#### 상품 구매 - <a href="https://github.com/chaehyuenwoo/SpringBoot-Project-MEGABOX/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Member)" >상세보기 - WIKI 이동</a>
-- 상품 검색
-- 구매 내역
-- 장바구니 페이지
+1. 회원가입
+   * 아이디, 비밀번호, 주소 API 연동
+   * 아이디 중복검사
+2. 로그인
+   * 일반 로그인, 관리자 로그인
+   * ID 찾기, PW 찾기
+3. 마이페이지
+   * 개인정보수변경
+4. 상품
+   * 상품 검색
+   * 구매 내역
+   * 장바구니 페이지
