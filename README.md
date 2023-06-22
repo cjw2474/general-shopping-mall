@@ -28,3 +28,8 @@
    * 상품 검색
    * 구매 내역
    * 장바구니 페이지
+
+## 스크린샷
+
+### 회원가입
+![회원가입](https://github.com/cjw2474/general-shopping-mall/assets/127098229/ab71c709-1c9e-470c-80f4-290a7083e076)
