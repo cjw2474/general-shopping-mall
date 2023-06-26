@@ -10,7 +10,7 @@
 
 ### ⚙️ 개발 환경
 - `Java 8`
-- `JDK 1.8.0`
+- `JDK 14.0.1`
 - **IDE** : Eclipse
 - **Server** : Apache Tomcat
 - **Database** : Oracle DB
